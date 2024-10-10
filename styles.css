@@ -19,3 +19,12 @@ padding: 20px 10px;
 background: rgb(5, 235, 208);
 border-radius: 25%; /* Pick a color */
 }
+.project{
+    width: 300px;
+    height: 300px;
+    margin: 10px;
+    border: 2px solid rgb(23, 4, 233)
+    display: block;
+    margin: auto;
+
+}
