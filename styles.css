@@ -28,3 +28,10 @@ border-radius: 25%; /* Pick a color */
     margin: auto;
 
 }
+
+    .about img {
+    width: 150px;
+    height: 200px;
+    border-radius: 25%;
+    border: 2px solid rgb(126, 14, 201);
+    }
